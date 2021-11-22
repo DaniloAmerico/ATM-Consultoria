@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Danilo/AndroidStudioProjects/ATMConsultoria/app/src/main/res/drawable/degrade_fundo_navegacao.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Danilo/AndroidStudioProjects/ATMConsultoria/app/src/main/res/drawable/side_nav_bar.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Danilo/AndroidStudioProjects/ATMConsultoria/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Danilo/AndroidStudioProjects/ATMConsultoria/app/src/main/res/layout/app_bar_main.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Danilo/AndroidStudioProjects/ATMConsultoria/app/src/main/res/layout/content_main.xml" value="0.209375" />
+        <entry key="..\:/Users/Danilo/AndroidStudioProjects/ATMConsultoria/app/src/main/res/layout/fragment_clientes.xml" value="0.25" />
+        <entry key="..\:/Users/Danilo/AndroidStudioProjects/ATMConsultoria/app/src/main/res/layout/fragment_gallery.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Danilo/AndroidStudioProjects/ATMConsultoria/app/src/main/res/layout/fragment_home.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Danilo/AndroidStudioProjects/ATMConsultoria/app/src/main/res/layout/fragment_principal.xml" value="0.209375" />
+        <entry key="..\:/Users/Danilo/AndroidStudioProjects/ATMConsultoria/app/src/main/res/layout/fragment_servicos.xml" value="0.33" />
+        <entry key="..\:/Users/Danilo/AndroidStudioProjects/ATMConsultoria/app/src/main/res/layout/fragment_slideshow.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Danilo/AndroidStudioProjects/ATMConsultoria/app/src/main/res/layout/fragment_sobre.xml" value="0.209375" />
+        <entry key="..\:/Users/Danilo/AndroidStudioProjects/ATMConsultoria/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Users/Danilo/AndroidStudioProjects/ATMConsultoria/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/Danilo/AndroidStudioProjects/ATMConsultoria/app/src/main/res/menu/main.xml" value="0.14583333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
